@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/6608374753",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/8202380220",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/9172470096",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/8029261156",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -109,6 +109,18 @@
       "packageName": "com.miaboyka.mamama.gouss",
       "icon": "https://play-lh.googleusercontent.com/aj0b-raTCYHyf2Iy7gfr0VYPsCWr4dRJmu-wrfG5RT1ukJ3zgadsL96ujx0pCbdNEZQ=w240-h480",
       "download": "+100K"
+    },
+    {
+      "name": "Music Wejdene & Lyrics Offline",
+      "packageName": "com.wejdene.arrogante.gouss",
+      "icon": "https://play-lh.googleusercontent.com/WYHgIiL7lrmlRf5C55ZrtMpl49r0zyKGByMiwnBXc7XQ5x8mhpE3E0d3bwmX044tNIQ=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Marwa Laoud & Lyrics Offline",
+      "packageName": "com.loud.marwa.gouss",
+      "icon": "https://play-lh.googleusercontent.com/pIcm0SJamvcM1Ml93Z5j1PUSJ_eUVdRdmMjM-TWk5h5PlbXbslX3S5E3gGd1-qbbgRZ_=w240-h480",
+      "download": "+10K"
     },
     {
       "name": "Music Imen Es & Lyrics Offline",
